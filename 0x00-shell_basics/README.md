@@ -1,2 +1,3 @@
-This is going to be used as the directory stuff for alx system engineering devops
-s is now adding the listing of things
+this is the rightng to do 
+alrigth then
+lets goi
