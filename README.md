@@ -1,2 +1,1 @@
-this is for the alias thing haha an dill make it
-
+0x03. Shell, init files, variables and expansions
