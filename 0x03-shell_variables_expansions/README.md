@@ -1,1 +1,1 @@
-this is going to be my readme file for thsi project
+script that creates an alias
